@@ -18,7 +18,7 @@ function App() {
         padding: 'var(--spacing-sm) var(--spacing-md)',
         display: 'flex',
         justifyContent: 'space-between',
-        zIndex: 100,
+        zIndex: 10000,
         mixBlendMode: 'difference'
       }}>
         <div>

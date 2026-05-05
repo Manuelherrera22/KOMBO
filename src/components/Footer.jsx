@@ -18,14 +18,14 @@ export default function Footer() {
           
           <div style={{ gridColumn: '1 / span 12', '@media (min-width: 768px)': { gridColumn: '9 / span 4' }, display: 'flex', flexDirection: 'column', justifyContent: 'flex-end' }}>
             <p style={{ fontWeight: 700, fontSize: '1.25rem', marginBottom: 'var(--spacing-sm)' }}>CONTACTO PARA INVERSORES</p>
-            <a href="mailto:invest@kombo.com" style={{ 
+            <a href="mailto:komborecordscol@gmail.com" style={{ 
               display: 'inline-block',
               borderBottom: '2px solid #000',
               paddingBottom: '4px',
-              fontSize: '1.5rem',
+              fontSize: 'clamp(1rem, 3vw, 1.5rem)',
               fontWeight: 800,
               width: 'fit-content'
-            }}>invest@kombo.com</a>
+            }}>komborecordscol@gmail.com</a>
           </div>
         </div>
 

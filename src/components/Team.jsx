@@ -55,7 +55,7 @@ export default function Team() {
               border: '1px solid rgba(255,0,0,0.2)'
             }}>
               <div style={{ zIndex: 10 }}>
-                <h3 style={{ fontSize: '2rem', margin: 0 }}>WIL <span style={{ color: 'var(--color-text-muted)' }}>(N35)</span></h3>
+                <h3 style={{ fontSize: '2rem', margin: 0 }}>N35</h3>
                 <p style={{ color: 'var(--color-accent-secondary)', fontWeight: 700, margin: 'var(--spacing-xs) 0' }}>Dirección Audiovisual</p>
                 <p style={{ color: '#ccc', fontSize: '0.875rem' }}>Aportando el peso narrativo visual del proyecto.</p>
               </div>
